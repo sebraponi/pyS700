@@ -1,3 +1,3 @@
 # py700
 
-Python module for S700 GPIO
+Python module for CubieAIO-S700 GPIO
